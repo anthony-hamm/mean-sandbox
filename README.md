@@ -30,7 +30,7 @@ Alright now the fun begins. First clone or download the repo to your computer.
 1. Run in development mode with grunt: ```grunt```
 1. Make something awesome!
 
-Thats all! Now go and open up your browser at [http://localhost:3000](http://localhost:3000), and tweet [@jpotts18](http://twitter.com/jpotts18) to say thanks!
+Thats all! Now go and open up your browser at [http://localhost:3000](http://localhost:3000).
 
 
 ## Prerequisites
@@ -79,8 +79,3 @@ Following is a list of items detailing future direction for MEAN Stack Relationa
 - Demonstrate testing for Express routes and javascript classes using Mocha, Sinon, Proxyquire and more
 - Demonstrating modularity by using javascript classes for complex backend functionality
 - Yeoman generator to compete with MEAN
-
-
-# Troubleshooting and Contact
-
-During install some of you may encounter some issues feel free to contact me (jpotts18) or the co-contributor (chaudhryjunaid), via the repository issue tracker or the links provided below. I am also available on twitter at [@jpotts18](http://twitter.com/jpotts18) and Junaid at [@chjunaidanwar](http://twitter.com/chjunaidanwar).
